@@ -1,0 +1,70 @@
+
+img{
+	float:right;
+	width:50%;
+	height:auto;
+}
+
+
+ 
+
+
+
+
+
+
+span{
+	color:red;
+	font-weight: bold;
+
+	
+	
+}
+
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+ 
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: gold;
+}
+
+tr:nth-child(odd) {
+  background-color: #ADD8E6;
+}
+body{
+font-family: Sans-Serif;
+
+background-image: url('range.png');
+background-size: cover;
+
+
+
+} 
+
+h3{
+	font-family: Sans-Serif;
+	text-decoration: underline;
+	
+}
+
+
+.quote{
+	font-family: Sans-Serif;
+	font-weight:bold;
+	text-align:center;
+ text-decoration-line: overline underline;
+   text-decoration-color:gold
+ 
+	
+}
+

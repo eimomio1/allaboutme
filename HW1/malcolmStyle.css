@@ -1,0 +1,68 @@
+
+
+
+
+body{
+
+
+background-image: url('range.png');
+background-size: cover;
+font-family: Sans-Serif;
+
+
+} 
+
+h1{
+	
+	
+	text-align:center;
+	font-family:courier;	
+}
+
+p.myDiv{
+	
+	text-align:center;
+	
+	
+}
+
+
+
+
+a:link, a:visited {
+background-color: gold;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+
+a:hover, a:active {
+background-color: blue;
+}
+
+.myPic{
+	
+	 text-align:center;
+	
+	}
+
+.myPic img{
+  text-align:center;
+  height:250px;
+  width:250px;
+	
+	
+}
+
+.myName{
+	text-align:center;
+	font-size: 30px;
+	font-weight:bold;
+	
+}
+
+
+
+
